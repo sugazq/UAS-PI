@@ -29,8 +29,10 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
   4.2.1 Apakah sudah berjalan normal
   4.2.2 Jika sudah maka komputer bisa dijalankan
   4.2.3 Jika tidak panggil teknisi
+     
   **Link Flowchart(Draw.io)**
 - (https://drive.google.com/file/d/1WiJ15g9PIUJrPGBZr7xDW1nFHoJkth4M/view?usp=sharing)
+  
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Referensi [1](https://scratch.mit.edu/)
