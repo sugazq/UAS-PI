@@ -16,7 +16,32 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+**Algoritma Menyalakan Komputer**
+- 1. Pencet tombol “on” di CPU
+
+- 2. Apakah komputer sudah menyala normal?
+
+- 3. Jika ya
+
+- 3.1. Apakah muncul pesan error di layar?
+
+- 3.1.1. Jika ya, lakukan troubleshooting
+
+- 3.1.2. Jika tidak, komputer bisa langsung digunakan
+
+- 4. Jika tidak
+
+- 4.1. Apakah lampu indikator menyala
+
+- 4.1.1. Jika ya, pencet tombol “on” pada monitor
+
+- 4.1.2. Jika tidak, cek sumber listrik untuk memastikan arus
+
+- 4.2. Apakah masalah teratasi?
+
+- 4.2.1. Jika ya, komputer bisa langsung digunakan
+
+- 4.2.2. Jika tidak, silakan panggil teknisi untuk memperbaikinya
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
