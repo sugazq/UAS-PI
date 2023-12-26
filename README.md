@@ -17,32 +17,20 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 **Algoritma Menyalakan Komputer**
-- 1. Pencet tombol “on” di CPU
-
-- 2. Apakah komputer sudah menyala normal?
-
-- 3. Jika ya
-
-- 3.1. Apakah muncul pesan error di layar?
-
-- 3.1.1. Jika ya, lakukan troubleshooting
-
-- 3.1.2. Jika tidak, komputer bisa langsung digunakan
-
-- 4. Jika tidak
-
-- 4.1. Apakah lampu indikator menyala
-
-- 4.1.1. Jika ya, pencet tombol “on” pada monitor
-
-- 4.1.2. Jika tidak, cek sumber listrik untuk memastikan arus
-
-- 4.2. Apakah masalah teratasi?
-
-- 4.2.1. Jika ya, komputer bisa langsung digunakan
-
-- 4.2.2. Jika tidak, silakan panggil teknisi untuk memperbaikinya
-
+- Disini saya membuat algoritma ketika akan mmenyalakan komputer
+  1. Komputer dinyalakan
+  2. Apakah komputer dapat menyala
+  3. Jika iya apakah saat menyala terdapat eror?
+  3.1 Jika iya coba matikan komputer dan nyalakan kembali
+  3.2 Jika tidak maka komputer dapat digunakan
+  4. Jika tidak apakah lampu pada monitor menyala?
+  4.1 Jika ya pencet tombol power pada monitor
+  4.2 Jika tidak periksa sambungan listrik
+  4.2.1 Apakah sudah berjalan normal
+  4.2.2 Jika sudah maka komputer bisa dijalankan
+  4.2.3 Jika tidak panggil teknisi
+  **Link Flowchart(Draw.io)**
+- (https://drive.google.com/file/d/1WiJ15g9PIUJrPGBZr7xDW1nFHoJkth4M/view?usp=sharing)
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Referensi [1](https://scratch.mit.edu/)
