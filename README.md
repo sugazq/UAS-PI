@@ -153,7 +153,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-Disini saya mengikuti class/course dari build with angga yang dimana kebanyakan disitu saya mengambil web development https://buildwithangga.com/
+**Tampilan Websitenya**
+> ![Screenshot (97)](https://github.com/sugazq/UAS-PI/assets/115863742/d447a960-cf5c-4992-936d-75787636e9f8)
+- Disini saya mengikuti class/course dari build with angga yang dimana kebanyakan disitu saya mengambil web development https://buildwithangga.com/
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
