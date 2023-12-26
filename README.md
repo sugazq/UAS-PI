@@ -128,12 +128,17 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
-## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+## Eksplorasi Top Github Project yang Diminati ⭐⭐
+
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
+
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+Disini saya mengikuti class/course dari build with angga yang dimana kebanyakan disitu saya mengambil web development https://buildwithangga.com/
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
