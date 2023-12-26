@@ -144,7 +144,13 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
-
+**HandBrake**
+> https://github.com/HandBrake
+> ![Screenshot (98)](https://github.com/sugazq/UAS-PI/assets/115863742/ba500abb-da82-4bcb-93d4-278b1f2e8740)
+HandBrake adalah transcoder video sumber terbuka yang tersedia untuk Linux, Mac, dan Windows, berlisensi di bawah GNU General Public License (GPL) Versi 2 .
+HandBrake mengambil video yang sudah Anda miliki dan membuat video baru yang dapat digunakan di ponsel, tablet, pemutar media TV, konsol game, komputer, atau browser web—hampir semua hal yang mendukung format video modern.
+HandBrake bekerja dengan sebagian besar file dan format video umum, termasuk yang dibuat oleh kamera video konsumen dan profesional, perangkat seluler seperti ponsel dan tablet, rekaman layar game dan komputer, serta cakram DVD dan Blu-ray. HandBrake memanfaatkan alat seperti FFmpeg, x264, dan x265 untuk membuat file video MP4 atau MKV baru dari Sumber ini .
+Untuk informasi tentang mengunduh, membuat/memasang, dan menggunakan HandBrake, lihat Dokumentasi resmi HandBrake .
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
