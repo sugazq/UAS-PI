@@ -17,7 +17,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 **Algoritma Menyalakan Komputer**
-- Disini saya membuat algoritma ketika akan mmenyalakan komputer
+- Disini saya membuat algoritma ketika akan menyalakan komputer
   1. Komputer dinyalakan
   2. Apakah komputer dapat menyala
   3. Jika iya apakah saat menyala terdapat eror?
