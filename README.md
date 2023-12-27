@@ -37,10 +37,12 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 **Link Scratch**
 > https://scratch.mit.edu/projects/944527978
+> Jujur scratch ini menarik sih asli saya juga waktu buat vidio sampe gk inget waktu, hahahahah
 
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+> Disini saya mencoba algoritma bubble sort di visual studio code 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
