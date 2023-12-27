@@ -35,6 +35,9 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
   
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
+**Link Scratch**
+> https://scratch.mit.edu/projects/944527978
+
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
