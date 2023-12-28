@@ -49,6 +49,7 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 - Disini saya mendemonstrasikan penggunaan ide yaitu Visual Studio Code/VScode
+> 
   ### VScode
 ![images](https://github.com/sugazq/jobInterview/assets/115863742/ee274653-2dbf-41ef-8aec-317cf5516cae)
 - **Penjelasan Singkat:**
