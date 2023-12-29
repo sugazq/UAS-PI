@@ -116,10 +116,12 @@
   > https://youtu.be/V8LauTe3leY
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+**Link Youtube**
+  > 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-
+**Link Youtube**
+  > 
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 **Link Youtube**
@@ -134,8 +136,8 @@
   > https://youtu.be/TP7WNJXmHHY
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
-**Link Wordpress**
-  > 
+**Link Youtube**
+  > https://youtu.be/0TogN83eq-I
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 **Link Youtube**
@@ -175,23 +177,23 @@
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 **Link Wordpress**
-  > 
+  > https://sugarzq.wordpress.com/2023/12/29/menjelajahi-dunia-natural-language-processing-nlp-dengan-hugging-face-pengalaman-pribadi/
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 **Link Wordpress**
-  > 
+  > https://sugarzq.wordpress.com/2023/12/29/eksplorasi-kaggle-membongkar-pengalaman-pertama-dalam-dunia-data-science/
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 **Link Wordpress**
-  > 
+  > https://sugarzq.wordpress.com/2023/12/29/mencoba-protokol-komunikasi-iot-mqtt/
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/C5yW3g20YnQ
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/Xr6TxmWJaZw
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 **Link Youtube**
@@ -199,7 +201,7 @@
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/QLzDISxXy48
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 **Link Youtube**
@@ -211,11 +213,11 @@
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 **Link Wordpress**
-  > 
+  > https://sugarzq.wordpress.com/2023/12/29/mengenal-lebih-dekat-eksplorasi-tools-untuk-belajar-bahasa-inggris-duolingo/
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 **Link Wordpress**
-  > 
+  > https://sugarzq.wordpress.com/2023/12/29/eksplorasi-tools-untuk-belajar-berbicara-bahasa-inggris-memahami-hellotalk-dan-cara-penggunaannya/
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 **Link Youtube**
@@ -251,12 +253,12 @@ Untuk informasi tentang mengunduh, membuat/memasang, dan menggunakan HandBrake, 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 **Link Wordpress**
-  > 
+  > https://sugarzq.wordpress.com/2023/12/29/mengikuti-workshop-event-course-terkait-it/
 **Tampilan Websitenya**
 > ![Screenshot (97)](https://github.com/sugazq/UAS-PI/assets/115863742/d447a960-cf5c-4992-936d-75787636e9f8)
 - Disini saya mengikuti class/course dari build with angga yang dimana kebanyakan disitu saya mengambil web development https://buildwithangga.com/
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 **Link Wordpress**
-  > 
+  > https://sugarzq.wordpress.com/2023/12/29/membaca-dan-mengambil-inspirasi-dari-buku-bertema-informatika/
 
