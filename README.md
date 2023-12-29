@@ -117,11 +117,11 @@
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/AqSzVUCMPVI
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/AqSzVUCMPVI
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 **Link Youtube**
