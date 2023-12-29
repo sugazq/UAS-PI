@@ -1,19 +1,21 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-
+  **Link Youtube**
+  > https://youtu.be/sEI_bWugTOU
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-
+**Link Youtube**
+  > https://youtu.be/Lz_r2fDtte4
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-
+**Link Youtube**
+  > https://youtu.be/UNwRgQYUWzY
 ## Mencoba Console Sistem Operasi
-
 ### Windows CMD [v] ⭐⭐⭐⭐
-
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
-
+**Link Youtube**
+  > https://youtu.be/Nnf0Z_8hdzU
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-
+**Link Youtube**
+  > https://youtu.be/wfT06Z4a8qc
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 **Algoritma Menyalakan Komputer**
@@ -36,20 +38,21 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 **Link Scratch**
+- **Link Youtube**
+  > https://youtu.be/locJpB0CZ78
 > https://scratch.mit.edu/projects/944527978
 > Jujur scratch ini menarik sih asli saya juga waktu buat vidio sampe gk inget waktu, hahahahah
-
-Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 > Disini saya mencoba algoritma bubble sort di visual studio code
 - ![Capture](https://github.com/sugazq/UAS-PI/assets/115863742/4650cf1b-7dfb-41e9-b770-ee32022b53dc)
 > Adapun Link Youtube untuk penjelasannya
--  
+-  https://youtu.be/tm6d3i4iUD4
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 - Disini saya mendemonstrasikan penggunaan ide yaitu Visual Studio Code/VScode
-> 
+> Link Youtube Tutorial VScode
+> - https://youtu.be/ZMDelMUjA3s
   ### VScode
 ![images](https://github.com/sugazq/jobInterview/assets/115863742/ee274653-2dbf-41ef-8aec-317cf5516cae)
 - **Penjelasan Singkat:**
@@ -57,8 +60,6 @@ Referensi [1](https://scratch.mit.edu/)
 - **Cara Install Visual Code Studio**
     > Pertama, kunjungi laman download Visual Code Studio. Lalu, pilih installer sesuai platform yang Anda gunakan. Sebagai contoh, kami akan mengunduh installer untuk Windows.![download-visual-code-studio-768x414](https://github.com/sugazq/jobInterview/assets/115863742/69eb7a1d-2a75-46f7-808a-a15175f4ee45)
     > Selanjutnya, ikuti instruksi yang muncul di layar. Jika melihat tampilan berikut, artinya instalasi Visual Studio berhasil. Kemudian, klik Finish untuk mengakhiri proses instalasi.![install-visual-code-studio](https://github.com/sugazq/jobInterview/assets/115863742/a6ac0a17-2cd6-464f-8b64-2e90219c967c)
-- **Tutorial VScode**
-    > :https://www.youtube.com/watch?v=BvFT3H-QqbM
 - Ada beberapa shortcut keyboard yang bisa dipakai agar kamu lebih mudah ketika menggunakan aplikasi Visual Studio Code di Windows. Berikut adalah daftarnya:https://www.youtube.com/watch?v=BvFT3H-QqbM
     - Ctrl + Shift + P: menampilkan Command Palette
     - Ctrl + P: membuka file.
@@ -79,108 +80,153 @@ Referensi [1](https://scratch.mit.edu/)
     - Ctrl + F4: tutup aplikasi.
       
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-
+**Link Youtube**
+  > https://youtu.be/MJ3Bxvy1cyE
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-
+**Link Youtube**
+  > https://youtu.be/ggCZYL6i6TI
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
-
+**Link Youtube**
+  > https://youtu.be/Af9Dl5CbthA
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
-
+**Link Youtube**
+  > https://youtu.be/vDYM4b8Bjdw
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+**Link Youtube**
+  > https://youtu.be/WGTM_r9kM-s
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+**Link Youtube**
+  > https://youtu.be/aVSxUkPXSKM
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
-
+**Link Youtube**
+  > 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+- Disini saya membuat aplikasi Online Shop/E-commerce yang menggunakan html terlebih dahulu. Untuk informasi lebih lanjut bisa dengan mengklik link dibawah ini :
+> https://github.com/sugazq/jobInterview/tree/main
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
-Referensi []
+**Link Youtube**
+  > https://youtu.be/S2Uh8Yy2gPQ
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+**Link Youtube**
+  > 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
+
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+**Link Youtube**
+  > 
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+**Link Youtube**
+  > 
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+**Link Youtube**
+  > 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+**Link Wordpress**
+  > 
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+**Link Youtube**
+  > 
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+**Link Youtube**
+  >
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+**Link Youtube**
+  > 
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+**Link Youtube**
+  >
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+**Link Youtube**
+  > 
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+**Link Youtube**
+  > 
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+**Link Youtube**
+  > 
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+**Link Youtube**
+  > 
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+**Link Youtube**
+  > 
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+**Link Wordpress**
+  > 
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+**Link Wordpress**
+  > 
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+**Link Wordpress**
+  > 
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+**Link Youtube**
+  > 
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+**Link Youtube**
+  >
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+**Link Youtube**
+  > 
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+**Link Youtube**
+  >
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+**Link Wordpress**
+  > 
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+**Link Wordpress**
+  > 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+**Link Youtube**
+  >
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+**Link Youtube**
+  >
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+**Link Youtube**
+  > https://youtu.be/6KeEdTBOYmE
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
+**Link Youtube**
+  > https://youtu.be/LK33ph7O0R0
 **HandBrake**
 > https://github.com/HandBrake
 > ![Screenshot (98)](https://github.com/sugazq/UAS-PI/assets/115863742/ba500abb-da82-4bcb-93d4-278b1f2e8740)
@@ -193,6 +239,8 @@ Untuk informasi tentang mengunduh, membuat/memasang, dan menggunakan HandBrake, 
 
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+**Link Youtube**
+  > https://youtu.be/CSXM0y7Zjd8
 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
@@ -201,4 +249,6 @@ Untuk informasi tentang mengunduh, membuat/memasang, dan menggunakan HandBrake, 
 - Disini saya mengikuti class/course dari build with angga yang dimana kebanyakan disitu saya mengambil web development https://buildwithangga.com/
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+**Link Wordpress**
+  > 
 
