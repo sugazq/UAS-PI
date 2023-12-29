@@ -1,5 +1,10 @@
 # Hello Informatics !
 
+# Hello Informatics !
+## > Link Daftar Semua Vidio
+     https://youtube.com/playlist?list=PLxptzml2hTVUQM7KnBjzLv-eeKYpcPs3X&si=_JuSiXhpKcyGxWtw
+   
+
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
   **Link Youtube**
   > https://youtu.be/sEI_bWugTOU
