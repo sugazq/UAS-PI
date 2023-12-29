@@ -101,7 +101,8 @@
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/vCsQoEW7MgY
+
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 - Disini saya membuat aplikasi Online Shop/E-commerce yang menggunakan html terlebih dahulu. Untuk informasi lebih lanjut bisa dengan mengklik link dibawah ini :
 > https://github.com/sugazq/jobInterview/tree/main
@@ -112,7 +113,7 @@
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/V8LauTe3leY
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -122,15 +123,15 @@
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/Nd0wG9n9l2Q
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/bXwC1dJb4A0
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/TP7WNJXmHHY
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 **Link Wordpress**
@@ -138,39 +139,39 @@
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/cgNrSgTX6yI
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 **Link Youtube**
-  >
+  > https://youtu.be/cgNrSgTX6yI
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/PTsUFZd0oVs
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 **Link Youtube**
-  >
+  > https://youtu.be/YzdGV1FtC58
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/p4ffadrJpbM
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/uGGyuEw7R2A
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/VbGDUENT3Dk
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/1bJJMkGJ1dI
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/zFV5HOc5TmY
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 **Link Wordpress**
@@ -185,24 +186,28 @@
   > 
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+**Link Youtube**
+  > 
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+**Link Youtube**
+  > 
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/tzecGFDS6tA
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 **Link Youtube**
-  >
+  > 
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 **Link Youtube**
-  > 
+  > https://youtu.be/7BrEDXDqvQQ
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 **Link Youtube**
-  >
+  > https://youtu.be/Mryx7S5o5Wc
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 **Link Wordpress**
@@ -214,11 +219,11 @@
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 **Link Youtube**
-  >
+  > https://youtu.be/Mryx7S5o5Wc
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 **Link Youtube**
-  >
+  > https://youtu.be/4hagKVm3IkA
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 **Link Youtube**
@@ -236,7 +241,8 @@ HandBrake bekerja dengan sebagian besar file dan format video umum, termasuk yan
 Untuk informasi tentang mengunduh, membuat/memasang, dan menggunakan HandBrake, lihat Dokumentasi resmi HandBrake .
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
-
+**Link Youtube**
+  > https://youtu.be/sr6heURI_Rw
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 **Link Youtube**
@@ -244,6 +250,8 @@ Untuk informasi tentang mengunduh, membuat/memasang, dan menggunakan HandBrake, 
 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+**Link Wordpress**
+  > 
 **Tampilan Websitenya**
 > ![Screenshot (97)](https://github.com/sugazq/UAS-PI/assets/115863742/d447a960-cf5c-4992-936d-75787636e9f8)
 - Disini saya mengikuti class/course dari build with angga yang dimana kebanyakan disitu saya mengambil web development https://buildwithangga.com/
