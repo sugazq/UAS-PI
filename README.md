@@ -2,6 +2,12 @@
 
 ## > Link Daftar Semua Vidio
      https://youtube.com/playlist?list=PLxptzml2hTVUQM7KnBjzLv-eeKYpcPs3X&si=_JuSiXhpKcyGxWtw
+
+## > Link UTS
+     https://github.com/sugazq/jobInterview/blob/main/job-interview-answers.md
+
+## > Link Wordpress
+     https://sugarzq.wordpress.com
      
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
   **Link Youtube**
